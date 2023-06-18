@@ -1,3 +1,4 @@
+define hareka = Character("Hareka", image="hareka", who_prefix="Beholder - ", who_color="#4f6597")
 # Beholder Uniform
 image hareka beholder_uniform blush_eyes_closed_happy:
     "images/characters/gov/beholders/hareka/beholder_uniform/blush_eyes_closed_happy.png"
