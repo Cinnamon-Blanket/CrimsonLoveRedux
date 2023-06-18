@@ -1,0 +1,1 @@
+define mc = Character("Alex", image="alex", who_prefix="MC - ", who_color="#c9c9c9")
