@@ -194,3 +194,207 @@ label vol1ch1d1_start:
     hareka "Yeah, I guess."
     show hareka neutral_mouth
     "I sit back down on the bed, placing my head in my hands."
+    mc "This is the worst..."
+    show hareka talking
+    hareka "Is it?"
+    show hareka neutral_mouth
+    mc "Huh?"
+    "I glance at her curiously."
+    show hareka talking
+    hareka "You're not in danger. In fact, you're pretty safe, given the circumstances."
+    hareka "You're in a house, although trapped in one room. You're looked after by me, since it's part of my job... To make sure you don't die or whatever. You're really lucky."
+    show hareka neutral_mouth
+    "..."
+    "I mean, she has a point, but..."
+    mc "That doesn't justify your actions..."
+    show hareka closed_eyes talking
+    hareka "It was nothing personal, I promise. I was just doing my job."
+    show hareka neutral_mouth
+    mc "Still!"
+    "She lets out a deep sigh."
+    show hareka talking
+    hareka "Look, if you want me to apologise... Fine."
+    show hareka neutral_mouth
+    window hide
+    pause 0.5
+    show hareka blinking
+    "She locks eyes with mine."
+    show hareka talking
+    hareka "I'm sorry for hurting you."
+    show hareka neutral_mouth
+    "I'm taken aback. I really didn't think she'd actually say it..."
+    "There's still doubt, of course, but the way she maintains eye contact makes me want to believe she can't possibly be lying..."
+    mc "Fine, I'll trust you. I don't have much choice, but I really hope you're not lying to me."
+    show hareka talking
+    hareka "I don't lie."
+    show hareka neutral_mouth
+    mc "Mhm..."
+    "There's still a lot of doubt. If we're going to live together (technically), I'll need to work through that doubt until it vanishes."
+    show hareka closed_eyes
+    "She turns back to her computer and continues working. Her focus is admirable."
+    "I watch her for a while, typing away, but eventually get bored."
+    mc "What can I do while I'm stuck here?"
+    show hareka blinking talking
+    hareka "Hm?"
+    show hareka neutral_mouth
+    "She looks up at me."
+    mc "You were totally detached from reality there, weren't you..."
+    "I chuckle. She sighs."
+    show hareka talking
+    hareka "Concentration is a funny state."
+    show hareka neutral_mouth
+    mc "Sorry for breaking you out of it."
+    show hareka talking
+    hareka "It's fine."
+    show hareka neutral_mouth at bounceUp
+    "She stands up, stretching."
+    show hareka talking
+    hareka "I needed a break anyways... What was your question again?"
+    show hareka neutral_mouth
+    mc "Oh, I was wondering what I can do here. Sitting doing nothing is quite... boring, I guess."
+    show hareka talking
+    hareka "Oh. I see."
+    show hareka neutral_mouth at right with move
+    "She walks over to the wardrobe and pulls out a box, handing it to me."
+    mc "What's in here?"
+    show hareka talking
+    hareka "Take a look. It's nothing harmful."
+    show hareka smile_mouth
+    "I place it down on the floor, for fear of dropping it, unsure if there's anything fragile."
+    "I open it, pulling out a pile of interesting-looking books."
+    mc "Oh! It's been ages since I've read!"
+    show hareka talking
+    hareka "Do you think they'd be of interest to you?"
+    show hareka smile_mouth
+    mc "Yeah, definitely!"
+    show hareka talking
+    hareka "Good."
+    show hareka smile_mouth
+    "I take the box back to the bed and sit down, sifting through the pile. Hareka watches me intently."
+    mc "Yeah, these are all really good stories..."
+    show hareka talking
+    hareka "That's good. I'm glad you like them."
+    show hareka smile_mouth
+    mc "Where'd you get them from?"
+    show hareka talking
+    hareka "Ah..."
+    show hareka closed_eyes smile_mouth
+    "She averts her gaze."
+    show hareka talking
+    hareka "A friend gave them to me a long time ago... I read through them all pretty quickly so I put them away safely..."
+    show hareka smile_mouth
+    mc "Oh, I see."
+    "I smile."
+    mc "Thank you for letting me read them."
+    show hareka blinking talking
+    hareka "You're welcome. Enjoy."
+    show hareka smile_mouth at left with move
+    "She heads back to her work, and I pick out a particular book I like the cover of, and begin reading."
+    scene bg bedroom evening
+    show hareka hair_band ribbon closed_eyes smile_mouth at left
+    with fade
+    "Hours pass with ease. I end up getting really invested in the story and finish it in one sitting."
+    "When I finish, I put it back in the box and stand up, realising it's getting rather late."
+    "She's still working. It looks like she hasn't moved since we began..."
+    "I gently tap her shoulder."
+    show hareka blinking neutral_mouth at bounceUp
+    "She jumps a bit."
+    mc "Sorry, I didn't mean to startle you."
+    show hareka talking
+    hareka "It's fine..."
+    show hareka smile_mouth at bounceUp
+    "She does a big stretch."
+    mc "Yeah, you're gonna be stiff after sitting still for so long... How long has it been, a good few hours at least."
+    show hareka talking
+    hareka "Yeah... Anyways, how are you finding the story?"
+    show hareka smile_mouth
+    mc "Oh- I just finished it, actually."
+    show hareka talking
+    hareka "Already?"
+    show hareka smile_mouth
+    mc "Yeah... I'm a fast reader..."
+    show hareka closed_eyes talking
+    hareka "Wow, you're just like how I used to be..."
+    show hareka neutral_mouth
+    mc "Hm?"
+    "She shakes her head."
+    show hareka blinking talking
+    hareka "Never mind. Did you enjoy it, at least?"
+    show hareka smile_mouth
+    mc "Yeah, I did! The story was very compelling."
+    show hareka talking
+    hareka "Good."
+    show hareka smile_mouth at bounceUp
+    "She heads to the bedroom door, unlocking it."
+    show hareka talking
+    hareka "I'm going to prepare dinner. I won't be long."
+    show hareka smile_mouth
+    mc "Oh, okay!"
+    hide hareka with moveoutleft
+    "She leaves."
+    "I do a few stretches myself. I've also been hunched over my book for a long time, and my back is paying for it now..."
+    scene bg bedroom night
+    with fade
+    show hareka hair_band ribbon smile_mouth with moveinleft
+    "It doesn't take long before she returns, carrying a plate with pasta carbonara and a cup of water. I take the food gratefully."
+    mc "Thanks... I didn't realise how hungry I was again..."
+    show hareka talking
+    hareka "That happens when you're caught up in concentration. Anyways, enjoy."
+    show hareka smile_mouth
+    "I dig in. The pasta is delicious."
+    mc "Mm... Did you cook this yourself?"
+    "She nods."
+    mc "It's great..."
+    show hareka closed_eyes talking
+    hareka "Thanks."
+    show hareka smile_mouth
+    "I eat it rather quickly. I enjoyed every bite."
+    "I put the plate and cup in the bin, like earlier."
+    mc "It's getting pretty late..."
+    show hareka blinking talking
+    hareka "Yeah, it is. Do you want to go to bed now?"
+    show hareka smile_mouth
+    "I nod."
+    mc "I'm really exhausted from today..."
+    show hareka talking
+    hareka "That's understandable."
+    show hareka smile_mouth at right with move
+    "She heads to the wardrobe and pulls out some pyjamas."
+    show hareka at center with move
+    show hareka talking
+    hareka "Here. I'll look away."
+    show hareka smile_mouth
+    mc "Oh, thanks!"
+    hide hareka with dissolve
+    "She turns to face the wall as I get changed."
+    "The pyjamas are fluffy and soft."
+    mc "I'm done."
+    show hareka hair_band ribbon smile_mouth with dissolve
+    "Hareka turns back around."
+    show hareka talking
+    hareka "Do they fit you alright?"
+    show hareka smile_mouth
+    mc "Yeah, they do. Thanks a lot."
+    show hareka talking
+    hareka "No need to thank me. It's basic hospitality."
+    show hareka smile_mouth
+    mc "Well, that's true..."
+    "I sink down into bed. It's warm and comfy."
+    mc "Where will you sleep, Hareka?"
+    show hareka talking
+    hareka "Oh, I'll bring a mattress in here later on."
+    show hareka smile_mouth
+    mc "Oh, I see... Well, goodnight!"
+    show hareka closed_eyes talking
+    hareka "Goodnight."
+    show hareka smile_mouth
+    pause 0.5
+    scene black
+    with fade
+    "{b}Volume 1 - Chapter 1 - Day 1{/b} complete!"
+    menu vol1ch1d1_endmenu:
+        "Would you like to return to the selection screen, or carry onto the next chronological day?"
+        "Return to the selection screen":
+            jump volumeselect
+        "Carry onto the next day":
+            jump vol1ch1d2_start

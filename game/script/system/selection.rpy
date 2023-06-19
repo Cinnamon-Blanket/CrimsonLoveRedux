@@ -15,3 +15,5 @@ menu chapter1select:
     "{b}Current selected: Volume 1 - Chapter 1{/b}\n Select a day."
     "Day 1 (Monday 1st January)":
         jump vol1ch1d1_start
+    "Day 2 (Tuesday 2nd January)":
+        jump vol1ch1d2_start
