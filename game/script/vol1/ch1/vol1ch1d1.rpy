@@ -1,2 +1,60 @@
 label vol1ch1d1_start:
-    "Placeholder to avoid errors."
+    scene bg bedroom day with dissolve
+    "I wake up with a start."
+    "My breathing is heavy and my heart is racing."
+    "Where am I? What happened to me??"
+    "All these thoughts and questions race through my mind. I'm completely panicked."
+    "I stand up shakily, stumbling over to the door and trying the handle. It's locked."
+    "I try the window next to the bed. Also locked."
+    "I desperately search for some way to escape, but the room is completely shut off..."
+    "I flop onto the bed, groaning in frustration."
+    "This is the worst... I can't believe this..."
+    "I need to calm down, first of all. Acting irrationally could mean death in this situation."
+    "I take a few deep inhales, trying to calm my nerves. After a few tries, closing my eyes and focusing on clearing my mind, I finally begin to relax slightly."
+    "The main thing is, for now at least, I'm safe. It doesn't seem like there's anything in this room that is an imminent threat."
+    "As long as the kidnapper isn't here..."
+    "I stand up once more, taking a look around."
+    "It just looks like a normal bedroom. The decoration is plain and there isn't really much standing out. It's neat and tidy."
+    "I sit back down on the bed, trying to make sense of all of this."
+    "To make things worse, I can't even remember what happened to bring me here... All I remember is heading out for a New Year's Party..."
+    scene bg bedroom day with hpunch
+    "Suddenly, the door lock clicks, and I jump."
+    "My nerves immediately go sky high once more."
+    "No way..."
+    "The door opens, and in steps..."
+    show hareka beholder_uniform eyes_closed_neutral at left with moveinleft
+    "...A small girl."
+    "Huh???"
+    show hareka beholder_uniform neutral
+    "She glances at me."
+    "???" "Oh. You're awake."
+    "The girl enters the room, re-locking the door behind her."
+    "As she approaches me, I want to fight, to run away, but it appears I'm paralysed in pure fear."
+    show hareka at center with move
+    show hareka beholder_uniform eyes_closed_neutral
+    "She seems to notice the state I'm in, and sighs."
+    "???" "There's no need to be scared. I'm not going to hurt you."
+    "How can I believe that? She kidnapped me! I think...?"
+    "Actually..."
+    mc "Um..."
+    "I hesitate."
+    show hareka beholder_uniform neutral
+    "She glances at me. I stop breathing."
+    "???" "Were you going to say something?"
+    mc "No... It's nothing..."
+    "She heads to the desk and takes off her coat, hanging it on the chair, and sitting down."
+    "She pulls out a laptop from her backpack and boots it up."
+    "What is she doing...?"
+    show hareka beholder_uniform eyes_closed_neutral
+    "She opens up a tab and begins typing with speed I've never seen. So efficient..."
+    "I wait for her to finish."
+    "A few minutes later, she closes the laptop and turns to face me."
+    show hareka beholder_uniform neutral
+    "???" "Okay, I have been granted permission to explain to you about the situation you're in."
+    "Oh... Do I even want to know...?"
+    "I wait with baited breath."
+    show hareka beholder_uniform eyes_closed_happy
+    "???" "First of all, allow me to introduce myself."
+    hareka "My name is Hareka. I am a Beholder of the Government."
+    "WHAT?! THE GOVERNMENT???"
+    "My fear level jumps up more than I thought it could ever go."
